@@ -1,0 +1,42 @@
+h1 {
+    font-family: "Freestyle Script";
+    font-size: 30pt;
+    text-align: center;
+    color: #F6F6F6;
+    padding-top: 10%;
+}
+
+h2 {
+    font-family: "Freestyle Script";
+    font-size: 20pt;
+    text-align: center;
+    color: #F6F6F6;
+}
+
+h3 {
+    font-family: "Freestyle Script";
+    font-size: 20pt;
+    text-align: center;
+    color: #F6F6F6;
+}
+
+h4 {
+    font-family: "Freestyle Script";
+    font-size: 20pt;
+    text-align: center;
+    color: #663399;
+}
+
+h5 {
+    font-family: "Freestyle Script";
+    font-size: 20pt;
+    text-align: center;
+    color: #663399;
+}
+
+h6 {
+    font-family: "Freestyle Script";
+    font-size: 30pt;
+    text-align: center;
+    color: #663399;
+}
