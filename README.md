@@ -10,5 +10,6 @@ html, css, javascript, python, node.js
 ## 사용 딥러닝 모델
 RMDL(Random Multimodel Deep Learning)
 
-
+참고 : <https://github.com/kk7nc/RMDL>
+  
 현재는 서버를 막아두어 홈페이지 **접근 불가** 합니다.
